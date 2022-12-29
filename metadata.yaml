@@ -1,11 +1,16 @@
 _repo: Around-the-world-in-eighty-minutes-Photographic-reproductions-of-the-most-magnificent-edifice__69543
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69543-h/images/cover.jpg
 creator:
   author:
     agent_name: Walsh, William S.
     gutenberg_agent_id: '55307'
     url: http://www.gutenberg.org/2009/agents/55307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69543#Around-the-world-in-eighty-minutes-Photographic-reproductions-of-the-most-magnificent-edifice_
 gutenberg_issued: '2022-12-14'
 identifiers:
   gutenberg: '69543'
